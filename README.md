@@ -3,7 +3,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
+* [Data & Results](#data-&-results)
 * [Setup](#setup)
 * [Observations](#observations)
 * [Status](#status)
